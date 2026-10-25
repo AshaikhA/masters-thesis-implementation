@@ -1,0 +1,17 @@
+# Environment
+venv/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+
+# Personal documents (never commit)
+ACCOUNT_OPENING_CONFIRMATION_*.pdf
+BANK_STATEMENT_*.pdf
+BLOCKED_ACCOUNT_*.pdf
+BLOCKED_AMOUNT_*.pdf
+Immatrikulationsbescheinigung*.pdf
+Transcript of records*.pdf
+aufenthal.pdf
+
+# Raw survey data (contains free-text participant responses)
+survey-completed.csv
